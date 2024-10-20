@@ -1,0 +1,22 @@
+/* set a foreground color for body */
+body {
+    color: #161616;
+  }
+
+  /* set the foreground color for anchor elements */
+  a {
+    color: #161616;
+  }
+
+  /* all the elemnet with the class visuall-hidden should have their display to none */
+  .visually-hidden {
+    display: none;
+  }
+  /* foreground color for card-category */
+  .card-category {
+    color: #D73953;
+  }
+  /* foreground color for section-taglin */
+  .section-tagline {
+    color: #D73953;
+  }
