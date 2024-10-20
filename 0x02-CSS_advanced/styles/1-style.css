@@ -1,0 +1,5 @@
+/* Disable default browser scrolling*/
+
+html {
+    overflow: hidden;
+}
