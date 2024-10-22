@@ -37,7 +37,7 @@ body {
   .section-header {
     text-align: var(--section-header-align);
   }
-
+  /* declaration targeting the class section-title */
   .section-title {
     font-family: var(--font-family-title);
     font-size: var(--font-size-xx-large);
@@ -76,6 +76,6 @@ body {
     --section-header-align: center;
     --section-tagline-transform: uppercase;
     --section-title-margin: 0;
-    --section-title-color: color-black:
+    --section-title-color: color-black;
 
   }
